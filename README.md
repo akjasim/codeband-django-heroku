@@ -1,6 +1,7 @@
 # Deploy Django App to Heroku
  
-This is a part of YouTube Tutorial video on How to Deploy a Django Application to Heroku in under 10 Minutes.
+This is a part of YouTube Tutorial video on How to Deploy a Django Application to Heroku.
+https://youtu.be/V2rWvStauak
 
 ## Usage
 
