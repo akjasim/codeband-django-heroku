@@ -44,6 +44,8 @@ heroku run python manage.py migrate
 
 * DEBUG = False in settings.py
 
+* ALLOWED_HOSTS = ['https://your_app_name.herokuapp.com', 'localhost', '127.0.0.1'] in settings.py
+
 * If you make edits, then just type in the terminal,
 ```shell
 git add .
