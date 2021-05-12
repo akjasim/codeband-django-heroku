@@ -50,5 +50,5 @@ heroku run python manage.py migrate
 ```shell
 git add .
 git commit -m "edit"
-git push heroku master
+git push heroku main
 ```
